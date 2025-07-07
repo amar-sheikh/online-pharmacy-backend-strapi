@@ -12,7 +12,6 @@ The backend is designed to connect seamlessly with the React + Vite frontend: [`
 * **Node.js** – Runtime environment
 * **REST API** – API-based data exchange with frontend
 * **PostgreSQL / SQLite** – Configurable database support
-* **Cloudinary** *(optional)* – For media uploads
 * **JWT Auth** – Secure API access
 
 ---
