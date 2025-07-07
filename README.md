@@ -12,7 +12,7 @@ The backend is designed to connect seamlessly with the React + Vite frontend: [`
 * **Node.js** – Runtime environment
 * **REST API** – API-based data exchange with frontend
 * **PostgreSQL / SQLite** – Configurable database support
-* **JWT Auth** – Secure API access
+* **JWT Auth (Strapi-admin only)** – Used internally for secure API and admin access; frontend uses public endpoints.
 
 ---
 
